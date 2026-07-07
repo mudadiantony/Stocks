@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Stockroom",
+    "slug": "stockroom-inventory",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#12151A",
+    "splash": {
+      "backgroundColor": "#12151A"
+    },
+    "android": {
+      "package": "com.stockroom.inventory",
+      "backgroundColor": "#12151A",
+      "permissions": ["CAMERA"]
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Stockroom to use your camera to scan barcodes."
+        }
+      ]
+    ]
+  }
+}
