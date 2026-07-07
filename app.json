@@ -2,6 +2,12 @@
   "expo": {
     "name": "Stockroom",
     "slug": "stockroom-inventory",
+    "owner": "antony",
+"extra": {
+  "eas": {
+    "projectId": "c20d51f4-b069-4e6a-ae22-67de8da7c44f"
+  }
+},
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
